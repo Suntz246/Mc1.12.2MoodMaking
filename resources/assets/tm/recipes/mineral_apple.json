@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "mirror": true,
+  "pattern": [
+    " a ",
+    "deb",
+    " c "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:emerald_ore"
+    },
+    "b": {
+      "item": "minecraft:iron_ore"
+    },
+    "c": {
+      "item": "minecraft:diamond_ore"
+    },
+    "d": {
+      "item": "minecraft:gold_ore"
+    },
+    "e": {
+      "item": "minecraft:apple"
+    }
+  },
+  "result": {
+    "item": "tm:mineral_apple"
+  }
+}

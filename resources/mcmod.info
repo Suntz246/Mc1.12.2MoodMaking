@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "tm",
+    "name": "Tutorial",
+    "description": "Example of sun tianzheng learning test module!",
+    "version": "0.1.0",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "FledgeXu"
+    ],
+    "credits": "The Forge and FML guys, for making this example",
+    "logoFile": "logo.png",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
